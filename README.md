@@ -2,20 +2,6 @@
 
 This repository contains my organised study notes from the arcX Foundation Threat Intelligence Analyst learning journey, along with supporting references and a certificate of completion.
 
-## Contents
-
-```text
-cti-foundation-study-notes/
-├── README.md
-├── notes/
-│   ├── CTI_Organised_Study_Notes_UK.pdf
-│   └── CTI_Organised_Study_Notes_UK.docx
-├── certificate/
-│   └── certificate.pdf
-└── references/
-    └── links.md
-```
-
 ## What I learnt
 
 - What Cyber Threat Intelligence (CTI) is and why it is threat-centric.
@@ -42,7 +28,3 @@ cti-foundation-study-notes/
 - GOV.UK, data protection guidance: https://www.gov.uk/data-protection
 - ICO UK GDPR guidance: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/
 - GitHub Docs, uploading a project: https://docs.github.com/en/get-started/start-your-journey/uploading-a-project-to-github
-
-## Note on copyright and personal data
-
-Before making this repository public, check that you have permission to redistribute any uploaded PDFs. If unsure, link to official source pages instead of uploading the PDFs. Also remove any personal details that you do not want online.
